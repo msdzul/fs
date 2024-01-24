@@ -45,6 +45,14 @@
       "description": "ID Channel Database",
       "value": "0"
     },
+    "MONGO_URI": {
+      "description": "URL MongoDB",
+      "value": ""
+    },
+    "DB_NAME": {
+      "description": "Nama Database MongoDB",
+      "value": ""
+    },
     "BUTTONS": {
       "description": "JUMLAH button",
       "value": "0"
