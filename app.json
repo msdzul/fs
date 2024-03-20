@@ -1,6 +1,7 @@
 {
   "name": "F-SUBS 6 BUTTON",
   "description": "BOT BY MS DZULQURNAIN",
+  "stack": "heroku-22",
   "keywords": [
     "telegram",
     "file",
