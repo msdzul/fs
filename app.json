@@ -100,11 +100,11 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start bisa pake format HTML",
-      "value": "<b>Hallo {first}</b>\n\n<b>Saya adalah bot file sharing saya bisa mengirim kamu file melalui link yg telah dibuat\n\nSebelum menggunakan saya kamu wajib join channel saya\n\nMau bikin bot kaya gini? Pc @MSDZULQRNN</b>"
+      "value": "<b>Hallo {first}</b>\n\n<b>Saya adalah bot file sharing saya bisa mengirim kamu file melalui link yg telah dibuat\n\nSebelum menggunakan saya kamu wajib join channel saya\n\nMau bikin bot kaya gini? Pc @MSDQQQ</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan FSUB bisa pake format HTML",
-      "value": "<b>Hallo {first}\n\nKamu harus join channel saya sebelum memakai saya\n\nJoin channel dibawah😉\n\nMau bikin bot kaya gini? Pc @MSDZULQRNN</b>"
+      "value": "<b>Hallo {first}\n\nKamu harus join channel saya sebelum memakai saya\n\nJoin channel dibawah😉\n\nMau bikin bot kaya gini? Pc @MSDQQQ</b>"
     },
     "PROTECT_CONTENT": {
       "description": "Isi True biar bot gabisa di ss & di teruskan, kalo ga biarin aja False",
